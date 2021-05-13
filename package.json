@@ -1,0 +1,9 @@
+{
+  "name": "your-kitting",
+  "version": "1.0.0",
+  "description": "to create website js-kit",
+  "main": "index.js",
+  "repository": "git@github.com:ageofrage/your-kitting.git",
+  "author": "agehara <agehara_hiroshi@giginc.co.jp>",
+  "license": "MIT"
+}
